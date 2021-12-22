@@ -1,0 +1,318 @@
+import React from "react";
+
+const Contents = () => {
+  return (
+    <nav
+      className="
+          mt-5
+          rounded
+          bg-gray-100
+          dark:bg-gray-800
+          p-3
+          w-max
+          xl:place-self-start
+          filter
+          shadow-md
+          lg:col-start-1 lg:row-start-3
+        "
+    >
+      <h2 className="font-heading font-bold text-2xl dark:text-gray-300">
+        Contents
+      </h2>
+
+      <ol
+        className="
+            list-decimal
+            ml-5
+            mt-5
+            font-text font-medium
+            text-gray-600
+            dark:text-gray-300
+          "
+      >
+        <li className="mb-1">
+          <a
+            href="#appearance"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Appearance
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Size and mass
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Contents
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Structure
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Formation
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Environment
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Velocity
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Etymology and mythology
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Astronomical history
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            See also
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Notes
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            References
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            Further reading
+          </a>
+        </li>
+        <li className="mb-1">
+          <a
+            href="#"
+            className="
+                pointer
+                text-blue-500
+                hover:bg-blue-500
+                rounded
+                hover:text-white
+                pt-1
+                pb-1
+                pr-2
+                pl-2
+                transition
+                ease-in-out
+              "
+          >
+            External links
+          </a>
+        </li>
+      </ol>
+    </nav>
+  );
+};
+
+export default Contents;
